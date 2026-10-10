@@ -1,0 +1,52 @@
+[
+  {
+    "id": "onet-31",
+    "publisher": "U.S. Department of Labor, Employment and Training Administration / O*NET Center",
+    "title": "O*NET 31.0 Database (August 2026)",
+    "geography": "United States",
+    "data_type": "occupation descriptions, skills, tasks, education, career interests",
+    "url": "https://www.onetcenter.org/database.html",
+    "license": "CC BY 4.0, with attribution and modification notice",
+    "license_url": "https://www.onetcenter.org/license_db.html",
+    "files_in_source": "db_31_0_excel/*.xlsx"
+  },
+  {
+    "id": "bls-occupational-projections-2025-2035",
+    "publisher": "U.S. Bureau of Labor Statistics",
+    "title": "Occupational projections and worker characteristics, 2025–2035",
+    "geography": "United States",
+    "data_type": "occupational growth and wages; forecasts",
+    "url": "https://www.bls.gov/emp/data.htm",
+    "files_in_source": "BLS_Occupations.xlsx"
+  },
+  {
+    "id": "pbs-lfs-2024-25",
+    "publisher": "Pakistan Bureau of Statistics",
+    "title": "Labour Force Survey 2024–25 and related tables",
+    "geography": "Pakistan",
+    "data_type": "historical labour force and employment survey data",
+    "url": "https://www.pbs.gov.pk/labour-force-statistics/",
+    "redistribution_note": "Original PBS PDFs are not included in this repository. Refer to official report and table pages.",
+    "files_in_source": "PBS_* and individual 2024-25 table PDFs"
+  },
+  {
+    "id": "wef-future-jobs-2025",
+    "publisher": "World Economic Forum",
+    "title": "Future of Jobs Report 2025",
+    "geography": "Global / surveyed economies",
+    "data_type": "employer-expectation forecast to 2030",
+    "url": "https://www.weforum.org/reports/the-future-of-jobs-report-2025/",
+    "redistribution_note": "The full WEF report is copyright-restricted; only independent short factual notes are included.",
+    "files_in_source": "WEF_Future_of_Jobs_Report_2025.pdf"
+  },
+  {
+    "id": "anthropic-economic-index",
+    "publisher": "Anthropic",
+    "title": "Anthropic Economic Index — labour market impacts",
+    "geography": "Dataset-specific occupational/task-level AI usage metrics",
+    "data_type": "observed AI use/exposure, not job loss risk",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex",
+    "license": "MIT as listed on the Hugging Face dataset card",
+    "files_in_source": "Anthropic_job_exposure.csv, Anthropic_task_penetration.csv"
+  }
+]

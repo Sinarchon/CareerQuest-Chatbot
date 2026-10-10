@@ -1,0 +1,22 @@
+{
+  "original_uploaded_file_count": 61,
+  "processed_occupation_count": 1016,
+  "bls_detailed_occupation_count": 831,
+  "anthropic_occupation_exposure_count": 756,
+  "anthropic_task_count": 17998,
+  "pbs_fact_count": 13,
+  "wef_fact_count": 7,
+  "source_ids": [
+    "onet-31",
+    "bls-occupational-projections-2025-2035",
+    "pbs-lfs-2024-25",
+    "wef-future-jobs-2025",
+    "anthropic-economic-index"
+  ],
+  "notes": [
+    "Only a selected portion of the O*NET raw tables was integrated into each occupation profile.",
+    "PDF files were not republished; PBS and WEF entries are short sourced factual notes only.",
+    "Not a live job market or vacancies feed.",
+    "The repository contains source data and metadata, not a trained model or automatic RAG service."
+  ]
+}
